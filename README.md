@@ -1,5 +1,5 @@
 ### Hi there, I'm D.Dheeraj  👋 :grin: 
-<p>
+<p align="right">
   ![](https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif)
 </p>
 <!--
