@@ -1,7 +1,7 @@
 ### Hi there, I'm D.Dheeraj  👋 :grin: 
 
 <p>
-  I'm Final Year undergrad from SRM <img align="right" src="https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif"> bwjwndoiwdvaoadknvwodkvwoivnwdlvdnwlkvknwdldklvnwdldkvnwdldklvwdkdkdvnwddlklvnwdldklvnldklvnlknvlwkrlnvlklkwrrnvlklwknvlklwknvlklwkwnv
+  I'm Final Year undergrad from SRM <img align="right" src="https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif">
 </p>
 
 <!--
