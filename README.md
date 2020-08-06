@@ -1,8 +1,6 @@
 ### Hi there, I'm D.Dheeraj  👋 :grin: 
 
-<div align="right">
-  ![](https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif)
-</div>
+![](https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif)
 
 <!--
 **D3-jain/D3-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
