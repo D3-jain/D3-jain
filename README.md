@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif)
 
 <!--
 **D3-jain/D3-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
