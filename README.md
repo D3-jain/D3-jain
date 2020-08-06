@@ -1,6 +1,6 @@
 ### Hi there, I'm D.Dheeraj  👋 :grin: 
 
-<p> <img align="right" src="https://media.giphy.com/media/L05JA7nHFkIiwjBLMU/giphy.gif">
+<p> <img align="right" src="https://tenor.com/bbR50.gif">
   I'm Final Year CSE undergrad from SRM Institute of Science and Technology, KTR 🏫. I'm interested in Data Science and various other domains in Artificial Intelligence 👨‍💻 And wish to come up with some interesting solutions that can be helpful for public. Apart from working on AI/ML solutions I also enjoy developing Web Applications :computer: using web programming tools and also developing mobile applications :iphone: using Flutter.
   
   Besides developing and solving problem statements, I enjoy playing Sports :basketball:, FPS Multiplayer games :video_game: with friends, Photography :camera: and eating food :pizza:
